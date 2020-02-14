@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'Greatter thing are build from little steps'."
-date:       2020-02-14 16:46:03 +0000
+date:       2020-02-14 11:46:04 -0500
 permalink:  greatter_thing_are_build_from_little_steps
 ---
 
