@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Metaprogramming"
-date:       2020-05-03 19:58:24 +0000
+date:       2020-05-03 15:58:25 -0400
 permalink:  metaprogramming
 ---
 
